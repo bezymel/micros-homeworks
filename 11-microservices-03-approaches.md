@@ -108,6 +108,8 @@
 docker compose файл, запустив который можно перейти по адресу http://localhost:8081, по которому доступна Grafana с настроенным Dashboard.
 Логин в Grafana должен быть admin, пароль qwerty123456.
 
+https://github.com/bezymel/micros-homeworks/tree/main/11-microservices-02-principles/work
+
 Обоснование выбора инструментов
 
 * GitHub/GitLab предлагают надежный и мощный функционал для контроля версий.
